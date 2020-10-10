@@ -1,0 +1,45 @@
+.userContainer {
+    float: left;
+    width: 200px;
+    border-right: 1px solid black;
+    height: 300px;
+    padding: 10px;
+    overflow: auto;
+    background-color:green;
+}
+
+.conversationContainer {
+    float: left;
+    width: 400px;
+    height: 250px;
+    overflow: auto;
+    padding: 10px;
+    background-color: #FA8072;
+}
+
+
+
+.senddata {
+    background-color: green;
+    height: 58px;
+    width:420px;
+    float: left;
+    position: absolute;
+    top: 270px;
+    left: 229px;
+}
+
+#data {
+    width: 250px;
+    background-color:pink;
+    
+}
+#users{
+       background-color:blue;
+}
+#datasend:hover{
+      background-color:red;
+} 
+#uploadfile:hover{
+	background-color:red;
+}
